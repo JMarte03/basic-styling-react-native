@@ -7,7 +7,7 @@ This app is a simple React Native application designed to demonstrate the basic 
 ## 💻 How It's Made:
 
 Tech used: JavaScript, TypeScript, <img src="{https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-}">
+}" width="20px">
 
 This project uses React Native to build a mobile app with a focus on component-based development. The app incorporates:
 
