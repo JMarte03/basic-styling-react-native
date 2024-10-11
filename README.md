@@ -1,4 +1,4 @@
-![download](https://github.com/user-attachments/assets/3450ee51-5a92-422d-88c6-de54bdd50efa)# 📱 React Native Starter App
+# 📱 React Native Starter App
 
 This app is a simple React Native application designed to demonstrate the basic principles of React Native development.
 
