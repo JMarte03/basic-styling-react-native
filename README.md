@@ -2,7 +2,7 @@
 
 This app is a simple React Native application designed to demonstrate the basic principles of React Native development.
 
-<img src="https://github.com/user-attachments/assets/61d4f718-cacc-4443-a2c2-cd5ff2482db2" width="700px">
+<img src="https://github.com/user-attachments/assets/61d4f718-cacc-4443-a2c2-cd5ff2482db2" width="900px">
 
 ## 💻  Tech used:
 
