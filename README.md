@@ -4,9 +4,11 @@ This app is a simple React Native application designed to demonstrate the basic 
 
 ![Vídeo sin título ‐ Hecho con Clipchamp (1)](https://github.com/user-attachments/assets/61d4f718-cacc-4443-a2c2-cd5ff2482db2)
 
-## 💻 How It's Made:
+## 💻 Tech used:
 
-Tech used: <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
+## 🧱 How It's Made:
 
 This project uses React Native to build a mobile app with a focus on component-based development. The app incorporates:
 
