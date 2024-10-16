@@ -32,10 +32,3 @@ Building this app gave me a deeper understanding of React Native’s component l
 
 
 
-
-
-
-
-
-
-
