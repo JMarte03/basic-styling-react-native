@@ -1,4 +1,4 @@
-# 📱  React Native Starter App
+# 📱  React Native Starter App:
 
 This app is a simple React Native application designed to demonstrate the basic principles of React Native development.
 
